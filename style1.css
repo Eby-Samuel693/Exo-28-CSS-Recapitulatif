@@ -14,3 +14,20 @@ body{
     background-color: yellow;
     height: 200px;
 }
+
+.p1{
+    color:blue;
+}
+body{
+    font-family: "Courier New", monospace;
+    text-align: center;
+    font-size: 50px;
+
+}
+
+.d1{
+    border: 1px solid;
+    border-color:blue;
+    background-color: yellow;
+    height: 200px;
+}
